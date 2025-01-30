@@ -1,0 +1,9 @@
+[submodule "Sunset_WinAppMain"]
+	path = Sunset_WinAppMain
+	url = https://github.com/SunsetTwilight/Sunset_WinAppMain
+[submodule "Sunset_Graphics"]
+	path = Sunset_Graphics
+	url = https://github.com/SunsetTwilight/Sunset_Graphics.git
+[submodule "Sunset_GameEngine"]
+	path = Sunset_GameEngine
+	url = https://github.com/SunsetTwilight/Sunset_GameEngine.git
